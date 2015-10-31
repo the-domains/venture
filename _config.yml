@@ -1,0 +1,23 @@
+name: venture
+favicon: null
+layout_spectrum: 0.7136498836334795
+typography_spectrum: 0.8233039395418018
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5534980562515557
+  lightness: 0.08891354477964342
+  saturation: 0.6518232028465718
+  rhythmicContrast: 0.6948062025476247
+purpose: []
